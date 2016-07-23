@@ -1,0 +1,7 @@
+- Add web service to pull popular photos from https://api.flickr.com/services/feeds/activity/all?user_id=62083736@N05&secret=oiwzAKbTm7TCvDP%2BtTXxSQGeuBU%3D&lang=en-us and http://api.flickr.com/services/feeds/photos_public.gne
+
+- Add methods to allow admin of photo frame
+
+- API key  0d1d7de90d6a8801
+
+- https://www.flickr.com/services/api/flickr.stats.getPopularPhotos.html
